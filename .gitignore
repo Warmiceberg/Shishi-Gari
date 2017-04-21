@@ -1,1 +1,3 @@
 .idea/*
+shishigari/.idea*
+*.pyc
